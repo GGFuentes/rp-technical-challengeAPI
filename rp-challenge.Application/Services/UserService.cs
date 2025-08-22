@@ -2,7 +2,7 @@
 using rp_challenge.Application.DTOs;
 using rp_challenge.Domain.Entities;
 using rp_challenge.Domain.Exception;
-using rp_challenge.Infraestructure.Repositories;
+using rp_challenge.Domain.Repositories;
 
 namespace rp_challenge.Application.Services
 {
